@@ -11,7 +11,7 @@ Simple bootstraper to run a webserver on the fly for static content.
 2.) `npm install` to install all dependencies  
 3.) Drag and drop all assets/resources to `src/public`.   
 4.) Ensure you have an entry point file `index.html` which be the main page in `/src/index.html`.  
-5.) All other html files in `/src` will be binded to links depending on their names. For example 'tos.html' will be avaiable on `domain/tos`.
+5.) All other html files in `/src` will be binded to links depending on their names. For example `src/tos.html` will be avaiable on `domain/tos`.
 
 
 ### Quick Start Ubuntu
